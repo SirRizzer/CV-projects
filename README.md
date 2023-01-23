@@ -1,2 +1,2 @@
 # CV-projects
-Sber University CV projects
+CV projects
